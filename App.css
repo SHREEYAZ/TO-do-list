@@ -1,0 +1,21 @@
+*{
+  background-color: rgb(227, 166, 194);
+  color:#ca2424;
+  font-family:'Microsoft YaHei UI' ;
+}
+
+.container{
+    display: flex;
+    justify-content: center; 
+   align-items: center;  
+   height: 100vh; 
+   width: 100vw;
+   padding: 0;
+   margin:0;
+}
+
+button{
+  background-color: rgb(215, 127, 167);
+}
+
+
